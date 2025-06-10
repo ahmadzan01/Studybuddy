@@ -112,5 +112,4 @@ Chat: Real-time messaging using Socket.io
 Google Calendar: Sync study events
 
 
-Authors @Naqeeb Ahmadzai and @Alina Salam
-
+Authors @Naqeeb Ahmadzai and @Alina Salam <3
