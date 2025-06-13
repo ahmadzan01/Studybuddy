@@ -27,7 +27,7 @@ StudyBuddy is a full-stack web application that helps students create and manage
 
 ---
 
-## 🗂 Folder Structure
+## 🗂 Folder Structure:
 
 studybuddy/
 ├── client/ # React frontend
@@ -107,7 +107,7 @@ Copyable invite link
 Optional: invite by email
 
 🔄 Optional Features
-Chat: Real-time messaging using Socket.io
+Chat: Real-time messaging using Socket.io 
 
 Google Calendar: Sync study events
 
